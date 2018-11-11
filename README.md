@@ -1,2 +1,2 @@
 # Notes-app
-Basic note taking aping using node js
+Basic note taking app using node js
